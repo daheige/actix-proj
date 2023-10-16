@@ -1,5 +1,6 @@
 # actix-proj
-actix-web 是一个强大的高性能 Web 框架，用于创建从小型到单体的 Web 服务。
+Actix Web lets you quickly and confidently develop web services in Rust.
+actix-web 是一个强大的高性能 Web 框架，用于创建 Rust Web 服务。
 
 # 参考文档
 - https://actix.rs/docs/getting-started
