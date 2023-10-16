@@ -1,7 +1,5 @@
 # actix-proj
-actix-web in action
-
-Actix Web 是一个强大的高性能 Web 框架，用于创建从小型到单体的 Web 服务。
+actix-web 是一个强大的高性能 Web 框架，用于创建从小型到单体的 Web 服务。
 
 # 参考文档
 - https://actix.rs/docs/getting-started
